@@ -1,0 +1,30 @@
+.msg
+{
+    padding: 10px;
+    margin: 10px;
+    width: fit-content;
+}
+
+.msg__user
+{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+
+.msg__usercard
+{
+    background-color: #21094E!important;
+    border-radius: 55px !important;
+ /*  border: 2px solid #21094E !important; */
+  /* padding: 20px !important; */
+  /* width: 200px !important;
+  height: 150px !important; */
+}
+
+.msg__guestcard
+{
+    background-color: #e9e9eb !important;
+    border-radius: 55px !important;
+    
+}
