@@ -1,27 +1,31 @@
 .App {
   text-align: center;
+ /*  display: flex;
+  flex-direction: column;
+  align-items: center; */
 }
 
 
 h1 {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-margin: 0 !important;
+  margin: 0 !important;
   padding: 0 !important;
 
 }
 
 
+
 .app__form {
-  padding: 20px;
-  position: fixed;
+  padding: 15px;
+  position: fixed !important;
   bottom: 0;
   z-index: 1 !important;
   background-color:#e9e9eb;
-  width: 97%;
+  width: 98%;
   /* margin: 20px !important; */
   /* margin-top: 20px !important; */
   margin-bottom: 20px !important;
-  /* margin-right: 20px !important;
+ /*  margin-right: 20px !important;
   margin-left: 20px !important; */
   opacity: 0.9;
   border-radius: 55px !important;

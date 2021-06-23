@@ -51,9 +51,10 @@ function App() {
 
   return (
     <div className="App">
-      <img alt="logo" src={logo} width='150px' height='150px'/>
+        <img alt="logo" src={logo} width='150px' height='150px'/>
         <h1>Welcome {username} 🙋‍♂️</h1>
         <h1>Talk is overrated, lets just vibe!! 📣</h1>
+      
       
       
       <form className="app__form">

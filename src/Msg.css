@@ -15,9 +15,11 @@
 .msg__usercard
 {
     background-color: #21094E!important;
-    border-radius: 55px !important;
- /*  border: 2px solid #21094E !important; */
-  /* padding: 20px !important; */
+    border-radius: 45px !important;
+    max-width: 500px !important;
+    word-wrap: break-word;
+    border: 2px solid #FFE3FE !important;
+    padding: 5px !important;
   /* width: 200px !important;
   height: 150px !important; */
 }
@@ -25,6 +27,9 @@
 .msg__guestcard
 {
     background-color: #e9e9eb !important;
-    border-radius: 55px !important;
-    
+    border-radius: 45px !important;
+    max-width: 500px;
+    word-wrap: break-word;
+    border: 2px solid #FFE3FE !important;
+    padding: 5px !important;
 }
